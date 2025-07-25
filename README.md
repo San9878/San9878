@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 hi, I'm Santiago hernández chávez
 
-<!--
-**San9878/San9878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an artificial intelligence engineering student with hands-on experience in computer vision, data structures, neural networks, and automation. I’m passionate about developing solutions that combine ai, embedded systems, and computer vision.
 
-Here are some ideas to get you started:
+### 🚀 featured projects
+- 🧠 **medical image classification with efficientnetb3**  
+  trained on the kvasir-v2 dataset using fine-tuning, mixup, and label smoothing in google colab  
+- 🚗 **vehicle speed analysis with yolo + bst**  
+  vision-based detection and speed estimation, managed with binary search trees  
+- 🌿 **automated greenhouse system**  
+  controlled humidity, temperature, and lighting using arduino  
+- 🤖 **robotic arm neural network training**  
+  6-dof arm trained with matlab, reducing error from 20% to 9%
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ technologies
+- languages: `python`, `c++`, `java`, `sql`, `assembly`
+- ai & data: `tensorflow`, `keras`, `scikit-learn`, `pandas`
+- computer vision: `opencv`, `yolo`, `efficientnet`
+- technical documentation: `latex`
+- automation: `arduino`, `ti microcontrollers`
+
+### 🌱 currently
+- studying ai at universidad panamericana  
+- developing vision-based projects and structured data systems  
+- automating and optimizing repetitive tasks
+
+### 📫 contact
+- 📧 santy9878@gmail.com  
+- 📍 aguascalientes, mexico | Zacatecas, mexico,
+
+> *"i enjoy building simple solutions for complex problems by combining software, vision, and artificial intelligence."*
