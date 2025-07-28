@@ -14,7 +14,10 @@ i'm an artificial intelligence engineering student with hands-on experience in c
   controlled humidity, temperature, and lighting using arduino  
 
 - 🦜 **robotic arm neural network training**  
-  6-dof arm trained with matlab, reducing error from 20% to 9%
+  6-dof arm trained with matlab, reducing error from 20% to 9%  
+
+- 🧃 **ai feedback collector**  
+  receives prompts and ai-generated responses, allows human reviewers to rate and comment, and stores feedback securely using `supabase`. exposes restful endpoints via `fastapi`, uses `pydantic` for validation and `.env` for secret management. demonstrates practical skills in backend development, cloud integration, and real-world ai evaluation workflows.
 
 ### 🛠️ technologies
 
@@ -30,20 +33,9 @@ i'm an artificial intelligence engineering student with hands-on experience in c
 - developing vision-based projects and structured data systems  
 - automating and optimizing repetitive tasks
 
-### ⚙️ project elaboration
-
-this project was built to create a reliable system for collecting ai feedback through human review. it features:
-
-- a **fastapi backend** that handles prompt submissions and stores ai-generated responses  
-- a **secure supabase database** for storing feedback and user comments  
-- **restful api endpoints** that allow easy integration and retrieval of feedback data  
-- usage of **pydantic** for robust data validation and `.env` files to safely manage secrets  
-
-it demonstrates practical skills in building production-ready apis, integrating cloud services, and contributing to ai model evaluation workflows like rlhf and prompt engineering.
-
 ### 📫 contact
 
 - 📧 santy9878@gmail.com  
-- 📍 aguascalientes, mexico | zacatecas, mexico
+- 📍 aguascalientes, mexico | zacatecas, mexico | León, mexico 
 
 > *"i enjoy building simple solutions for complex problems by combining software, vision, and artificial intelligence."*
