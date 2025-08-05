@@ -1,4 +1,4 @@
-## 🐉 hi, I'm santiago hernández chávez
+## 🐉 Hi, I'm Santiago Hernández Chávez
 
 I'm an artificial intelligence engineering student with hands-on experience in computer vision, data structures, neural networks, and automation. I’m passionate about developing solutions that combine ai, embedded systems, and computer vision.
 
