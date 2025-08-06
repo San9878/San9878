@@ -38,4 +38,4 @@ I'm an artificial intelligence engineering student with hands-on experience in c
 - 📧 santy9878@gmail.com  
 - 📍 aguascalientes, mexico | zacatecas, mexico | León, mexico 
 
-> *"i enjoy building simple solutions for complex problems by combining software, vision, and artificial intelligence."*
+> *"I enjoy building simple solutions for complex problems by combining software, vision, and artificial intelligence."*
