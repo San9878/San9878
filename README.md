@@ -9,7 +9,7 @@ Currently, I'm focused on transformer-based visual geometry, monocular depth est
 
 ### 🌟 featured projects
 
-- 🔬 **3D endoscopic reconstruction | VGGT, VGGT-TTT & VGGT3**  
+- 🔬 **3D endoscopic reconstruction | VGGT & VGGT^3**  
   implementing and evaluating transformer-based architectures for monocular 3D reconstruction. working with depth estimation, camera poses, multi-view geometry, and point cloud reconstruction using `pytorch` and `cuda`. experimenting with the `c3vd` and `simcol3d` datasets, analyzing geometric consistency, reconstruction errors, and inference efficiency.
 
 - 🐄 **CowVision | cattle detection & computer vision**  
@@ -32,7 +32,7 @@ Currently, I'm focused on transformer-based visual geometry, monocular depth est
 - **languages:** `python`, `c++`, `java`, `sql`, `matlab`
 - **deep learning:** `pytorch`, `tensorflow`, `keras`, `scikit-learn`
 - **computer vision:** `opencv`, `yolo`, `rt-detr`, `efficientnet`
-- **3d vision & spatial ai:** `vggt`, `vggt-ttt`, `vggt3`, `droid-slam`, `depth estimation`, `camera pose estimation`, `multi-view geometry`, `point clouds`
+- **3d vision & spatial ai:** `vggt`, `vggt^3`, `droid-slam`, `depth estimation`, `camera pose estimation`, `multi-view geometry`, `point clouds`
 - **backend & databases:** `fastapi`, `pydantic`, `supabase`, `rest apis`, `sql`
 - **development tools:** `git`, `docker`, `linux`, `cuda`, `latex`
 - **embedded systems:** `arduino`, `stm32`, `ti microcontrollers`
@@ -51,7 +51,7 @@ Currently, I'm focused on transformer-based visual geometry, monocular depth est
 - 🎓 studying Artificial Intelligence Engineering at Universidad Panamericana
 - 🌍 accepted for a research internship at **KAUST**
 - 🔬 researching transformer-based 3D reconstruction for endoscopic imagery
-- 🧪 evaluating `vggt`, `vggt-ttt`, and `vggt3` on specialized datasets
+- 🧪 evaluating `vggt` and `vggt^3` on specialized datasets
 - 🐄 developing CowVision, a modular cattle detection system
 - ⚡ exploring efficient inference and low-latency computer vision systems
 
